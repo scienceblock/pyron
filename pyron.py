@@ -8,8 +8,8 @@ def encrypt():
     global secretCode
     message = input("t/>> ")
 
-    characters = "1234!£$%^&*()567890QWERT-YUIOPASDFGHJKLZXC=VBNMabcdefghijklmnopqrstuvwxyz.!? "
-    encryption = "zyxwvut-srqp!onmlkjihg12345=6789fed£cba?.!MNBVCXZ0A$%SDFGHJKLPOI^&*()UYTREQW¦"
+    characters = "JKLZXC=VBNMabcUIOPASDFGH&*123WERT-Ytuvwxyz.!?()567890Qefghijklmnopqrsd4!£$%^ "
+    encryption = "jihg12345=6789A$%SDFGHJKLPOI^&*()UYzyxwvut-srqp!onmlkTREQWfed£cba?.!MNBVCXZ0¦"
 
     secretCode = ""
 
